@@ -1,3 +1,28 @@
+# Itellij Idea Workspace
+.idea
+*.iws
+*.iml
+*.ids
+*.ipr
+production
+
+# Gradle
+.gradle
+build
+classes
+native
+
+# Extras
+out
+target
+*.log
+.kill-run-app
+.slcache
+pid
+.project
+.settings
+.classpath
+
 # Compiled class file
 *.class
 
